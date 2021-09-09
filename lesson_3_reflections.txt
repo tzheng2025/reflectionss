@@ -1,0 +1,2 @@
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+By doing it manually we can make sure that all of the changes are up to date instead of trusting Git to do it. If we type the wrong code, or etc, it can cause some problems and we might not realize it until it is too late.
